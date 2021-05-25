@@ -1,6 +1,6 @@
 ### Hi there 👋😄
-- Bem vindo ao meu GitHub! 
-- Atualmente estou participando do bootcamp da  Generation.
+- ✅ Bem vindo ao meu GitHub! 
+- 🏋 Atualmente estou participando do bootcamp da  Generation.
 <!--
 **JoseLuisCorreia/JoseLuisCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
