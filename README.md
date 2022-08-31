@@ -1,7 +1,7 @@
 ### Hi there 👋😄
 - ✅ Bem vindo ao meu GitHub! 
 - ✅ Formado como Desenvolvedor Web Java Jr pela Generation Brasil.
-- 👨🏽‍🎓  Atualmente no segundo semestre do curso de Análise e Desenvolvimento de Sistemas.
+- 👨🏽‍🎓  Atualmente 3º semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 <!--
 **JoseLuisCorreia/JoseLuisCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
